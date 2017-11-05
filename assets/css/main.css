@@ -395,7 +395,7 @@ template {
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #BD5248;
+  color: #000;
   font-weight: bold; }
 
 .gigantic {
@@ -441,12 +441,12 @@ hr {
   height: 0; }
 
 a {
-  color: #BD5248;
+  color: #000;
   text-decoration: none;
   outline: 0; }
 
 a:hover, a:focus {
-  color: #d89993; }
+  color: #333333; }
 
 ::-moz-selection {
   background: #FFF498; }
@@ -470,7 +470,7 @@ body {
   -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background: #ddd;
+  background: #7FDBFF;
   font-size: 14px;
   line-height: 1.6;
   font-family: 'Open Sans' sans-serif;
